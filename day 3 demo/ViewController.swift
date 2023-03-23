@@ -116,7 +116,7 @@ class ViewController: UIViewController {
         if thisSymbol(a3, s) && thisSymbol(b2, s) && thisSymbol(c1, s){
             return true
         }
-        
+        // hello world
         return false
    
     }
